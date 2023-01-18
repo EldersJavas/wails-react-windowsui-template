@@ -1,3 +1,4 @@
-# README
+# react-winui-wails-template
 
-这是个 wails 的模板罢了
+A awesome template of wails.
+
